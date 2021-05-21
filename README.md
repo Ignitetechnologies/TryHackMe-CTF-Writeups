@@ -2,9 +2,11 @@
 
 This cheatsheet is aimed at the CTF Players and Beginners to help them sort TryHackMe Labs on the basis of Operating System and Difficulty. This list contains all the TryHackMe writeups available on Hacking Articles. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://twitter.com/pavan2318).
 
-[1.1]: Image.png
+
+[1.1]: http://i.imgur.com/tXSoThF.png
 [1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1]
+
 
 | No. | Machine Name | Operating System | Difficulty |
 |-----|--------------|------------------|------------------|
