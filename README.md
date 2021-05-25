@@ -26,3 +26,8 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort TryH
 | 14.	| [Wonderland](https://www.hackingarticles.in/wonderland-tryhackme-walkthrough/)|Linux|Medium|
 | 15.	| [Anonymous](https://www.hackingarticles.in/anonymous-tryhackme-walkthrough/)|Linux|Medium|
 | 16.	| [Boiler CTF](https://www.hackingarticles.in/boiler-ctf-tryhackme-walkthrough/)|Linux|Medium|
+| 17.	| [Blog](https://www.hackingarticles.in/blog-tryhackme-walkthrough/)|Linux|Medium|
+| 16.	| [Watcher](https://www.hackingarticles.in/watcher-tryhackme-walkthrough/)|Linux|Medium|
+| 16.	| [UltraTech](https://www.hackingarticles.in/ultratech-tryhackme-walkthrough/)|Linux|Medium|
+| 16.	| [BookStore](https://www.hackingarticles.in/bookstore-tryhackme-walkthrough/)|Linux|Medium|
+| 16.	| [Pickel Rick](https://www.hackingarticles.in/pickle-rick-tryhackme-walkthrough/)|Linux|Easy|
