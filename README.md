@@ -31,3 +31,4 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort TryH
 | 19.	| [UltraTech](https://www.hackingarticles.in/ultratech-tryhackme-walkthrough/)|Linux|Medium|
 | 20.	| [BookStore](https://www.hackingarticles.in/bookstore-tryhackme-walkthrough/)|Linux|Medium|
 | 21.	| [Pickel Rick](https://www.hackingarticles.in/pickle-rick-tryhackme-walkthrough/)|Linux|Easy|
+| 22.	| [Adventure Time](https://www.hackingarticles.in/adventure-time-tryhackme-walkthrough/)|Linux|Hard|
