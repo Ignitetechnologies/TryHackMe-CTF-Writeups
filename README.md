@@ -33,3 +33,4 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort TryH
 | 21.	| [Pickel Rick](https://www.hackingarticles.in/pickle-rick-tryhackme-walkthrough/)|Linux|Easy|
 | 22.	| [Skynet](https://www.hackingarticles.in/skynet-tryhackme-walkthrough/)|Linux|Easy|
 | 23.	| [Adventure Time](https://www.hackingarticles.in/adventure-time-tryhackme-walkthrough/)|Linux|Hard|
+| 23.	| [Mustacchio](https://www.hackingarticles.in/mustacchio-tryhackme-walkthrough/)|Linux|Easy|
