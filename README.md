@@ -35,3 +35,5 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort TryH
 | 23.	| [Adventure Time](https://www.hackingarticles.in/adventure-time-tryhackme-walkthrough/)|Linux|Hard|
 | 24.	| [Mustacchio](https://www.hackingarticles.in/mustacchio-tryhackme-walkthrough/)|Linux|Easy|
 | 25.	| [Retro](https://www.hackingarticles.in/retro-tryhackme-walkthrough/)|Linux|Hard|
+| 26.	| [Kenobi](https://www.hackingarticles.in/kenobi-tryhackme-walkthrough/)|Linux|Easy|
+| 27.	| [Simple](https://www.hackingarticles.in/simple-ctf-tryhackme-walkthrough/)|Linux|Easy|
