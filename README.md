@@ -37,3 +37,4 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort TryH
 | 25.	| [Retro](https://www.hackingarticles.in/retro-tryhackme-walkthrough/)|Linux|Hard|
 | 26.	| [Kenobi](https://www.hackingarticles.in/kenobi-tryhackme-walkthrough/)|Linux|Easy|
 | 27.	| [Simple](https://www.hackingarticles.in/simple-ctf-tryhackme-walkthrough/)|Linux|Easy|
+| 28.	| [DailyBugle](https://www.hackingarticles.in/dailybugle-tryhackme-walkthrough/)|Linux|Medium|
