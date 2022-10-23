@@ -1,6 +1,6 @@
 # TryHackMe Writeups
 
-This cheatsheet is aimed at the CTF Players and Beginners to help them sort TryHackMe Labs on the basis of Operating System and Difficulty. This list contains all the TryHackMe writeups available on Hacking Articles. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
+This cheatsheet is aimed at CTF players and beginners to help them sort TryHackMe Labs on the basis of operating system and difficulty. This list contains all the TryHackMe writeups available on Hacking Articles. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
 
 [1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
 [1.6]: https://www.linkedin.com/company/hackingarticles/
