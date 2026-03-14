@@ -1,44 +1,49 @@
-# TryHackMe Writeups
+🧩 TryHackMe CTF Writeups
 
-This cheatsheet is aimed at CTF players and beginners to help them sort TryHackMe Labs on the basis of operating system and difficulty. This list contains all the TryHackMe writeups available on Hacking Articles. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
+A curated collection of TryHackMe CTF room write-ups and walkthroughs designed to help cybersecurity learners, penetration testers, and CTF players understand practical attack techniques used in real-world security labs.
 
-[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
-[1.6]: https://www.linkedin.com/company/hackingarticles/
-[1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
-[1.4]: https://discord.com/invite/kyKvXwK4Bk
-[1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
-[1]: http://www.twitter.com/hackinarticles
-# Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
+## 🌐 Connect With Us
 
-![image](https://github.com/Ignitetechnologies/TryHackMe-CTF-Writeups/blob/main/thm.png?raw=true)
+🔵 **[Telegram – Join Channel](https://t.me/hackinarticles)**  
+⚫ **[Twitter/X – Follow Us](https://x.com/hackinarticles)**  
+🟣 **[Discord – Join Server](https://discord.com/invite/kyKvXwK4Bk)**  
+💼 **[LinkedIn – Follow HackingArticles](https://www.linkedin.com/company/hackingarticles)**  
 
-| No. | Machine Name | Operating System | Difficulty |
-|-----|--------------|------------------|------------------|
-| 1.	| [Relevant](https://www.hackingarticles.in/relevant-tryhackme-walkthrough/)|Windows|Medium|
-| 2.	| [Revenge](https://www.hackingarticles.in/revenge-tryhackme-walkthrough/)|Linux|Medium|
-| 3.	| [Startup](https://www.hackingarticles.in/startup-tryhackme-walkthrough/)|Linux|Easy|
-| 4.	| [Internal ](https://www.hackingarticles.in/internal-tryhackme-walkthrough/)|Linux|Hard|
-| 5.	| [The Server From Hell](https://www.hackingarticles.in/the-server-from-hell-tryhackme-walkthrough/)|Linux|Medium|
-| 6.	| [0day](https://www.hackingarticles.in/0day-tryhackme-walkthrough/)|Linux|Medium|
-| 7.	| [Ghizer](https://www.hackingarticles.in/ghizer-tryhackme-walkthrough/)|Linux|Medium|
-| 8.	| [Iron Corp](https://www.hackingarticles.in/iron-corp-tryhackme-walkthrough/)|Windows|Hard|
-| 9.	| [CTF collection Vol. 1](https://www.hackingarticles.in/ctf-collection-vol-1-tryhackme-walkthrough/)|N/A|Easy|
-| 10.	| [Nax](https://www.hackingarticles.in/nax-tryhackme-walkthrough/)|Linux|Medium|
-| 11.	| [Mnemonic](https://www.hackingarticles.in/mnemonic-tryhackme-walkthrough/)|Linux|Medium|
-| 12.	| [dogcat](https://www.hackingarticles.in/dogcat-tryhackme-walkthrough/)|Linux|Medium|
-| 13.	| [Tokyo Ghoul](https://www.hackingarticles.in/tokyo-ghoul-tryhackme-walkthrough/)|Linux|Medium|
-| 14.	| [Wonderland](https://www.hackingarticles.in/wonderland-tryhackme-walkthrough/)|Linux|Medium|
-| 15.	| [Anonymous](https://www.hackingarticles.in/anonymous-tryhackme-walkthrough/)|Linux|Medium|
-| 16.	| [Boiler CTF](https://www.hackingarticles.in/boiler-ctf-tryhackme-walkthrough/)|Linux|Medium|
-| 17.	| [Blog](https://www.hackingarticles.in/blog-tryhackme-walkthrough/)|Linux|Medium|
-| 18.	| [Watcher](https://www.hackingarticles.in/watcher-tryhackme-walkthrough/)|Linux|Medium|
-| 19.	| [UltraTech](https://www.hackingarticles.in/ultratech-tryhackme-walkthrough/)|Linux|Medium|
-| 20.	| [BookStore](https://www.hackingarticles.in/bookstore-tryhackme-walkthrough/)|Linux|Medium|
-| 21.	| [Pickel Rick](https://www.hackingarticles.in/pickle-rick-tryhackme-walkthrough/)|Linux|Easy|
-| 22.	| [Skynet](https://www.hackingarticles.in/skynet-tryhackme-walkthrough/)|Linux|Easy|
-| 23.	| [Adventure Time](https://www.hackingarticles.in/adventure-time-tryhackme-walkthrough/)|Linux|Hard|
-| 24.	| [Mustacchio](https://www.hackingarticles.in/mustacchio-tryhackme-walkthrough/)|Linux|Easy|
-| 25.	| [Retro](https://www.hackingarticles.in/retro-tryhackme-walkthrough/)|Linux|Hard|
-| 26.	| [Kenobi](https://www.hackingarticles.in/kenobi-tryhackme-walkthrough/)|Linux|Easy|
-| 27.	| [Simple](https://www.hackingarticles.in/simple-ctf-tryhackme-walkthrough/)|Linux|Easy|
-| 28.	| [DailyBugle](https://www.hackingarticles.in/dailybugle-tryhackme-walkthrough/)|Linux|Medium|
+## 🎓 Training Program
+
+🚀 **[Join Our Cybersecurity Training Program](https://forms.gle/bowpX9TGEs41GDG99)**  
+
+Hands-on training in **Penetration Testing, Red Teaming, and Cybersecurity.**
+
+## 🎯 TryHackMe Walkthroughs
+
+| # | Machine | OS | Difficulty | Walkthrough |
+|---|---|---|---|---|
+| 1 | Relevant | 🪟 Windows | 🟡 Medium | [Read](https://www.hackingarticles.in/relevant-tryhackme-walkthrough/) |
+| 2 | Revenge | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/revenge-tryhackme-walkthrough/) |
+| 3 | Startup | 🐧 Linux | 🟢 Easy | [Read](https://www.hackingarticles.in/startup-tryhackme-walkthrough/) |
+| 4 | Internal | 🐧 Linux | 🔴 Hard | [Read](https://www.hackingarticles.in/internal-tryhackme-walkthrough/) |
+| 5 | The Server From Hell | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/the-server-from-hell-tryhackme-walkthrough/) |
+| 6 | 0day | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/0day-tryhackme-walkthrough/) |
+| 7 | Ghizer | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/ghizer-tryhackme-walkthrough/) |
+| 8 | Iron Corp | 🪟 Windows | 🔴 Hard | [Read](https://www.hackingarticles.in/iron-corp-tryhackme-walkthrough/) |
+| 9 | CTF Collection Vol.1 | 📦 N/A | 🟢 Easy | [Read](https://www.hackingarticles.in/ctf-collection-vol-1-tryhackme-walkthrough/) |
+|10 | Nax | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/nax-tryhackme-walkthrough/) |
+|11 | Mnemonic | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/mnemonic-tryhackme-walkthrough/) |
+|12 | Dogcat | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/dogcat-tryhackme-walkthrough/) |
+|13 | Tokyo Ghoul | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/tokyo-ghoul-tryhackme-walkthrough/) |
+|14 | Wonderland | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/wonderland-tryhackme-walkthrough/) |
+|15 | Anonymous | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/anonymous-tryhackme-walkthrough/) |
+|16 | Boiler CTF | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/boiler-ctf-tryhackme-walkthrough/) |
+|17 | Blog | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/blog-tryhackme-walkthrough/) |
+|18 | Watcher | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/watcher-tryhackme-walkthrough/) |
+|19 | UltraTech | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/ultratech-tryhackme-walkthrough/) |
+|20 | BookStore | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/bookstore-tryhackme-walkthrough/) |
+|21 | Pickle Rick | 🐧 Linux | 🟢 Easy | [Read](https://www.hackingarticles.in/pickle-rick-tryhackme-walkthrough/) |
+|22 | Skynet | 🐧 Linux | 🟢 Easy | [Read](https://www.hackingarticles.in/skynet-tryhackme-walkthrough/) |
+|23 | Adventure Time | 🐧 Linux | 🔴 Hard | [Read](https://www.hackingarticles.in/adventure-time-tryhackme-walkthrough/) |
+|24 | Mustacchio | 🐧 Linux | 🟢 Easy | [Read](https://www.hackingarticles.in/mustacchio-tryhackme-walkthrough/) |
+|25 | Retro | 🐧 Linux | 🔴 Hard | [Read](https://www.hackingarticles.in/retro-tryhackme-walkthrough/) |
+|26 | Kenobi | 🐧 Linux | 🟢 Easy | [Read](https://www.hackingarticles.in/kenobi-tryhackme-walkthrough/) |
+|27 | Simple CTF | 🐧 Linux | 🟢 Easy | [Read](https://www.hackingarticles.in/simple-ctf-tryhackme-walkthrough/) |
+|28 | DailyBugle | 🐧 Linux | 🟡 Medium | [Read](https://www.hackingarticles.in/dailybugle-tryhackme-walkthrough/) |
